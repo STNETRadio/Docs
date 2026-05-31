@@ -18,7 +18,7 @@ STNET ID is a Single Sign-On (SSO) system for logging into various services of t
 
 ## What is STNET ID?
 
-STNET ID is a system that employees and associates can use to update personal information and access work-related services. The purpose of this system is to provide convenience and enhance security when logging in. You can access the system at [id.stnetradio.com](https://id.stnetradio.com) (only for the stnetradio.com domain or STNET Radio employees, not yet available; please wait for further announcements).
+STNET ID is a system that employees and associates can use to update personal information and access work-related services. The purpose of this system is to provide convenience and enhance security when logging in. You can access the system at [workat.stnetradio.com](https://workat.stnetradio.com) (only for the stnetradio.com domain or STNET Radio employees, not yet available; please wait for further announcements).
 
 ---
 
@@ -34,7 +34,7 @@ For employees who want to access various services that we support, [you can foll
 {% step %}
 ### Login
 
-Go to the website [id.stnetradio.com](https://id.stnetradio.com), enter your email, click "continue," and then enter your password. Your first-time password is your date of birth (in the Gregorian calendar). For example, if your birthday is January 1, 1990, your password is 1January1990 (with the first letter of the month in uppercase).
+Go to the website [workat.stnetradio.com](https://workat.stnetradio.com), enter your email, click "continue," and then enter your password. Your first-time password is your date of birth (in the Gregorian calendar). For example, if your birthday is January 1, 1990, your password is 1January1990 (with the first letter of the month in uppercase).
 {% endstep %}
 
 {% step %}
