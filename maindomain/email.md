@@ -1,4 +1,4 @@
-# Receiving and Sending Emails through the stnetradio.co Domain
+# Receiving and Sending Emails through the stnetradio.com Domain
 
 Using the company's email helps enhance the efficiency and reliability of both internal and external communications.
 
