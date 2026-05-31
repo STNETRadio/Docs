@@ -19,7 +19,7 @@ The STNET Radio team would like to inform you that we have implemented a Single 
 
 ## What is STNET ID?
 
-STNET ID is a system that allows employees and relevant personnel to edit personal information and access various services related to work. The system aims to increase convenience and security when logging in. You can log in at [id.stnetradio.com](https://id.stnetradio.com) (for the stnetradio.co domain or STNET Radio employees only; the system is not yet available, please wait for further announcements).
+STNET ID is a system that allows employees and relevant personnel to edit personal information and access various services related to work. The system aims to increase convenience and security when logging in. You can log in at [workat.stnetradio.com](https://workat.stnetradio.com) (for the stnetradio.co domain or STNET Radio employees only; the system is not yet available, please wait for further announcements).
 
 ## Services that Require a New Password
 
@@ -34,7 +34,8 @@ If you wish to access the following services, you will need to create a new pass
 
 The following services do not require a new password and do not use the STNET ID system:
 
-- GoDaddy Web Email
+- GoDaddy Web Email (This is not supported and has been moved to Google Workspace email service.)
+- Google Workspace
 - GitHub
 - Slack
 - And others
