@@ -2,6 +2,10 @@
 
 Using the company's email helps enhance the efficiency and reliability of both internal and external communications.
 
+{% hint style="danger" %}
+STNET Radio no longer uses GoDaddy’s email. We’ve moved to Work at STNET Radio powered by Google Workspace for a better experience for our staff.  To access the new email service visit [workat.stnetradio.com](https://workat.stnetradio.com) or [email.stnetradio.com](https://email.stnetradio.com).
+{% endhint %}
+
 ## First-time Email Access
 
 - Check your personal email: You will receive an email from us with a link to set up your password.
