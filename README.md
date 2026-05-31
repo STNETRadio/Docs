@@ -19,7 +19,7 @@ layout:
 
 # Welcome to STNET Radio Docs.
 
-This is a document from STNET Radio where we explain, how to operate, troubleshoot, etc. here. For regular customers, you can read the article for you at [Team STNET Radio](https://support.stnetradio.co)'s website.
+This is a document from STNET Radio where we explain, how to operate, troubleshoot, etc. here. For regular customers, you can read the article for you at [Team STNET Radio](https://support.stnetradio.com)'s website.
 
 {% hint style="danger" %}
 Starting October 20, the login system will transition to using STNET ID. You can read about the new login process [here](/stnetid/movetostnetid.md).
